@@ -15,9 +15,9 @@ function App() {
       <p>Tags are special programming keywords which instructs the web browser to perform a specific
         function</p>
 
-        <h6>Opening tags are used to start an element, they are written this way (<>), while closing tags are'
-        used to mark the ending of an element, they are written like the opening tags but wuth a forward slash 
-        before the main tag, just like this (</>)</h6> 
+        <h6>Opening tags are used to start an element, they are written this way <>, while closing tags are'
+        used to mark the ending of an element, they are written like the opening tags but with a forward slash 
+        before the main tag, just like this </> </h6> 
       
     </>
   )
