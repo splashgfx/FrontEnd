@@ -19,7 +19,7 @@ function App() {
           angular bracket , while closing tags are used to mark the ending of an element, they are written
           like the opening tags but with a forward slash after the first left angular bracket before the main tag.</h6>
 
-          <p>HTML also known as m <strong><i>'Hyper Text Markup language'</i></strong> is a markup language which can be desribed to be the 
+          <p><b>HTML</b> also known as  <mark><strong><i>'Hyper Text Markup language'</i></strong></mark>is a markup language which can be desribed to be the 
             skeleton of a website. It gives declarative instructions to the website to perform specifc tasks </p>
 
       
