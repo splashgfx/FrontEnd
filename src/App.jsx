@@ -33,7 +33,7 @@ function App() {
 
 <br />
             <h2><p>H<sub>2</sub>S0<sub>4</sub></p></h2>
-            <h2><p>Na<Sup>2+</Sup></p></h2>
+            <h2><p >Na<sup>2+</sup></p></h2>
 
 
     </>
