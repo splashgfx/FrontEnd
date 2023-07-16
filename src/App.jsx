@@ -29,13 +29,13 @@ function App() {
 
 <br />
             <p>There is no difference between the bold and strong tag. This is <b>bold</b> and this is
-             <strong>Strong</strong></p>
+             <strong> Strong</strong></p>
 
 <br />
-            <h3><p>H<sub>2</sub>S0<sub>4</sub></p></h3>
-            <p><b>Above is the chemical Symbol for Tetra Oxosulphate VI Acid</b></p>
+            <h2><p>H<sub>2</sub>S0<sub>4</sub></p></h2>
+            <h2><p>Na<Sup>2+</Sup></p></h2>
 
-      
+
     </>
   )
 }
