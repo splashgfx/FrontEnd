@@ -32,7 +32,7 @@ function App() {
              <strong>Strong</strong></p>
 
 <br />
-            <p>H<sub>2</sub>S0<sub>4</sub></p>
+            <h3><p>H<sub>2</sub>S0<sub>4</sub></p></h3>
             <p><b>Above is the chemical Symbol for Tetra Oxosulphate VI Acid</b></p>
 
       
