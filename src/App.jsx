@@ -25,7 +25,7 @@ function App() {
           <p><b>HTML</b> also known as  '<mark><strong><i>Hyper Text Markup language</i></strong></mark>' is a markup language which can be desribed to be the 
             skeleton of a website. It gives declarative instructions to the website to perform specifc tasks.</p>
 
-
+<br />
             <p>There is no difference between the bold and strong tag</p>
             <p>This is <b>bold</b> and this is <strong>Strong</strong></p>
 
